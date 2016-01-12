@@ -5,7 +5,7 @@
   "description": "About project...",
   "main": "main.js",
   "scripts": {
-    "start": "npm install && bower install && gulp",
+    "start": "gulp",
     "build": "rm -rf build/* && webpack --progress --hide-modules"
   },
   "license": "MIT",

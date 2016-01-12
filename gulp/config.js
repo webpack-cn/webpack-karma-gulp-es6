@@ -1,5 +1,5 @@
 var path = require('path');
-var dest = './dist',
+var dest = './build',
   src = './src',
   karmaPath = path.join(__dirname, '../karma.conf.js');
 

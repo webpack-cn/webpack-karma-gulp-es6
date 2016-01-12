@@ -7,7 +7,7 @@ module.exports = {
   entry: './src/main.js',
   
   output: {
-    path: __dirname + "/dist",
+    path: __dirname + "/build",
     filename: 'main.js',
     chunkFilename: "[hash].main.js",
     library: 'MyLibrary',

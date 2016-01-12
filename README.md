@@ -20,6 +20,7 @@ Generic ES6 web app template with karma/jasmine test coverage
 - Run the following
 
 ```
+npm install && bower install
 npm install -g gulp
 npm install -g bower
 npm install -g browser-sync
